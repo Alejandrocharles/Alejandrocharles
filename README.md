@@ -19,7 +19,7 @@
   - Implementation of Internet of Things (Arduino, SQL)
   - And more!
 
-- 👨‍💻 You can find my projects on [GitHub]([https://github.com/Alejandrocharles](https://github.com/Alejandrocharles?tab=repositories]).
+- 👨‍💻 You can find my projects on [GitHub](https://github.com/Alejandrocharles?tab=repositories).
 
 - 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
 
@@ -27,14 +27,8 @@
 
 - View my resume on [RESUME_ALEJANDRO CHARLES](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
-<h2 align="center">Connect with Me</h2>
-
-<p align="center">
-  <!-- Add your social media and contact links here -->
-</p>
 
 <h2 align="center">Languages and Tools</h2>
-
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
