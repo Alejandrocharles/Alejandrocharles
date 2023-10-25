@@ -20,13 +20,13 @@
   - Implementation of Internet of Things (Arduino, SQL)
   - And more!
 
-- 👨‍💻 You can find my projects on [GitHub](https://github.com/Alejandrocharles).
+- 👨‍💻 You can find my projects on [GitHub]([https://github.com/Alejandrocharles](https://github.com/Alejandrocharles?tab=repositories)).
 
 - 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
 
 <h2 align="center">Resume</h2>
 
-- View my resume on [Canva](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+- View my resume on [RESUME_ALEJANDRO CHARLES](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 <h2 align="center">Connect with Me</h2>
 
@@ -40,14 +40,14 @@
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
 </p>
 
