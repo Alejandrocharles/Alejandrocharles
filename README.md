@@ -19,7 +19,7 @@
   - Implementation of Internet of Things (Arduino, SQL)
   - And more!
 
-- 👨‍💻 You can find my projects on [GitHub]([https://github.com/Alejandrocharles](https://github.com/Alejandrocharles?tab=repositories)).
+- 👨‍💻 You can find my projects on [GitHub]([https://github.com/Alejandrocharles](https://github.com/Alejandrocharles?tab=repositories]).
 
 - 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
 
