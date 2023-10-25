@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Alejandro Charles Gonzalez</h1>
 <h3 align="left">I really like learning new things about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about understanding how programming works and everything related to technology. Languages: Spanish | English</h3>
 
-- 🌱 current courses related: **Programming fundamental data structures and algorithms. (C++)**
+- 🌱 current courses related:
+**Programming fundamental data structures and algorithms. (C++)**
+**Mathematics and Data Science for Decision Making (Python)** 
+**Computational Thinking for Engineering (Python)** 
+**Object-oriented Computational Thinking (C++) **
+**Computational Modeling of Motion (Matlab) **
+**Computational Moedling Applying Conservation Laws (Matlab)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alejandrocharles](https://github.com/Alejandrocharles)
 
