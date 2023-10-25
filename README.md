@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro Charles Gonzalez</h1>
-<h3 align="center">I really like learning new things about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about understanding how programming works and everything related to technology. Languages: Spanish | English</h3>
+<h3 align="left">I really like learning new things about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about understanding how programming works and everything related to technology. Languages: Spanish | English</h3>
 
 - 🌱 current courses related: **Programming fundamental data structures and algorithms. (C++)**
 
