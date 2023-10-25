@@ -1,10 +1,9 @@
 <h1 align="center">Hello, I'm Alejandro Charles Gonzalez 👋</h1>
 
-<h3 align="center">Passionate about software development, problem-solving, and technology.</h3>
+<h3 align="center">I really like learning new things about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about understanding how programming works and everything related to technology.</h3>
 
 <p align="center">
   <a href="https://github.com/alejandrocharles" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=alejandrocharles&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
 
