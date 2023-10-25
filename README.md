@@ -1,37 +1,32 @@
-<h1 align="center">Hi there, I'm Alejandro Charles Gonzalez</h1>
+<h1 align="center">Hello, I'm Alejandro Charles Gonzalez 👋</h1>
 
-<h3 align="center">Passionate about software programming, solving challenges, and exploring technology</h3>
+<h3 align="center">Passionate about software development, problem-solving, and technology.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alejandrocharles&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocharles" />
+  <a href="https://github.com/alejandrocharles" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=alejandrocharles&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 <h2 align="center">About Me</h2>
 
-- 🌱 Currently exploring a wide range of courses:
+- 🌱 Currently exploring a diverse range of courses, including:
   - Programming Fundamentals, Data Structures, and Algorithms (C++)
   - Object-Oriented Computational Thinking (C++)
   - Object-Oriented Programming (C++)
   - Computational Thinking for Engineering (Python)
   - Mathematics and Data Science for Decision Making (Python)
-  - Modeling of Minimal Systems and Computational Architectures (Assembler)
   - Software Requirements Analysis (Theory)
   - Implementation of Internet of Things (Arduino, SQL)
-  - Computational Biology Analysis (R)
-  - Statistical Analysis (R)
-  - Computational Modeling of Motion (Matlab)
-  - Computational Modeling Applying Conservation Laws (Matlab)
-  - Computational Modeling of Electrical Systems (Matlab)
-  - Computational Modeling of Electromagnetic Systems (Matlab)
-  - Modeling of Engineering with Computational Mathematics (Matlab)
+  - And more!
 
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/Alejandrocharles)
+- 👨‍💻 You can find my projects on [GitHub](https://github.com/Alejandrocharles).
 
-- 📫 Reach out to me via email: [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com)
+- 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
 
 <h2 align="center">Resume</h2>
 
-- View my resume on [Canva](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- View my resume on [Canva](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
 <h2 align="center">Connect with Me</h2>
 
