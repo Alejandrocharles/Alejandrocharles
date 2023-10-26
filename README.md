@@ -4,6 +4,9 @@
 - 🎓 Third Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico. Graduation Date: August 2022 – June 2026
 - 💻 Passionate about software programming and technology. Always eager to learn and apply my knowledge to solve challenges.
 - 🌐 Languages: Spanish | English
+
+<h2 align="center">About Me</h2>
+
 </h3>
 - 🌱 I'm currently exploring a diverse range of courses, including:
   - Fundamental Data Structures and Algorithms (C++)
