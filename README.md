@@ -8,14 +8,9 @@
   </ul>
 </h3>
 
-<p align="center">
-  <a href="https://github.com/alejandrocharles" target="_blank">
-  </a>
-</p>
-
 <h2 align="center">About Me</h2>
 
-- 🌱 Currently exploring a diverse range of courses, including:
+- 🌱 Current and upcoming courses related:
   - Programming fundamental data structures and algorithms (C++)
   - Object-oriented Computational Thinking (C++)
   - Object - Oriented Programming (C++)
