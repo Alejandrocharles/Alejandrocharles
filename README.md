@@ -1,36 +1,45 @@
 <h1 align="center">Hello, I'm Alejandro Charles Gonzalez 👋</h1>
 
 <h3 align="center">
-- 🎓 Third Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico. Graduation Date: August 2022 – June 2026
-- 💻 Passionate about software programming and technology. Always eager to learn and apply my knowledge to solve challenges.
-- 🌐 Languages: Spanish | English
+- Third Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.                                             Graduation Date
+                                                                                                  August 2022 – June 2026
+  - I really like learning new things about software programming, as well as applying my knowledge to solve challenges and problems that may arise.
+  - I am passionate about understanding how programming works and everything related to technology. 
+  - Languages: Spanish | English </h3>
+
+<p align="center">
+  <a href="https://github.com/alejandrocharles" target="_blank">
+  </a>
+</p>
 
 <h2 align="center">About Me</h2>
 
-</h3>
-- 🌱 I'm currently exploring a diverse range of courses, including:
-  - Fundamental Data Structures and Algorithms (C++)
-  - Object-Oriented Computational Thinking (C++)
-  - Object-Oriented Programming (C++)
+- 🌱 Currently exploring a diverse range of courses, including:
+  - Programming fundamental data structures and algorithms (C++)
+  - Object-oriented Computational Thinking (C++)
+  - Object - Oriented Programming (C++)
   - Computational Thinking for Engineering (Python) 
   - Mathematics and Data Science for Decision Making (Python)
-  - Modeling of Minimal Systems and Computational Architectures (Assembler)
-  - Software Requirements Analysis
-  - Implementation of Internet of Things (Arduino - SQL)
-  - Computational Biology Analysis (R)
+  - Modeling of minimal systems and computational architectures (assembler)
+  - Software requirements analysis (theory)
+  - Implementation of internet of things (Arduino - SQL)
+  - Computional Biology Analysis (R)
   - Statistic Analysis (R)
   - Computational Modeling of Motion (Matlab) 
   - Computational Modeling Applying Conservation Laws (Matlab)    
   - Computational Modeling of Electrical Systems (Matlab)
   - Computational Modeling of Electromagnetic Systems (Matlab)
-  - Modeling of Engineering with Computational Mathematics (Matlab)
+  - Modeling of Engeineering with Computational Mathematics (Matlab)
 
-- 👨‍💻 You can find my projects on GitHub.
-- 📫 Reach out to me at alejandrocharles2004@gmail.com.
+
+- 👨‍💻 You can find my projects on [GitHub](https://github.com/Alejandrocharles?tab=repositories).
+
+- 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
 
 <h2 align="center">Resume</h2>
 
-- View my resume on RESUME_ALEJANDRO CHARLES.
+- View my resume on [RESUME_ALEJANDRO CHARLES](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
