@@ -1,58 +1,50 @@
-<h1 align="center">Hi there, I'm Alejandro Charles Gonzalez</h1>
+<h1 align="center">Hello, I'm Alejandro Charles Gonzalez 👋</h1>
 
-<h3 align="center">Passionate about software programming, solving challenges, and exploring technology</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alejandrocharles&label=Profile%20views&color=0e75b6&style=flat" alt="alejandrocharles" />
-</p>
+<h3 align="center">
+  🎓 Third Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico. Graduation Date: August 2022 – June 2026
+  💻 Passionate about software programming and technology. Always eager to learn and apply my knowledge to solve challenges.
+  🌐 Languages: Spanish | English
+</h3>
 
 <h2 align="center">About Me</h2>
 
-- 🌱 Currently exploring a wide range of courses:
-  - Programming Fundamentals, Data Structures, and Algorithms (C++)
+- 🌱 I'm currently exploring a diverse range of courses, including:
+  - Fundamental Data Structures and Algorithms (C++)
   - Object-Oriented Computational Thinking (C++)
   - Object-Oriented Programming (C++)
-  - Computational Thinking for Engineering (Python)
+  - Computational Thinking for Engineering (Python) 
   - Mathematics and Data Science for Decision Making (Python)
   - Modeling of Minimal Systems and Computational Architectures (Assembler)
-  - Software Requirements Analysis (Theory)
-  - Implementation of Internet of Things (Arduino, SQL)
+  - Software Requirements Analysis
+  - Implementation of Internet of Things (Arduino - SQL)
   - Computational Biology Analysis (R)
-  - Statistical Analysis (R)
-  - Computational Modeling of Motion (Matlab)
-  - Computational Modeling Applying Conservation Laws (Matlab)
+  - Statistic Analysis (R)
+  - Computational Modeling of Motion (Matlab) 
+  - Computational Modeling Applying Conservation Laws (Matlab)    
   - Computational Modeling of Electrical Systems (Matlab)
   - Computational Modeling of Electromagnetic Systems (Matlab)
   - Modeling of Engineering with Computational Mathematics (Matlab)
 
-- 👨‍💻 Explore my projects on [GitHub](https://github.com/Alejandrocharles)
-
-- 📫 Reach out to me via email: [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com)
+- 👨‍💻 You can find my projects on GitHub.
+- 📫 Reach out to me at alejandrocharles2004@gmail.com.
 
 <h2 align="center">Resume</h2>
 
-- View my resume on [Canva](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-<h2 align="center">Connect with Me</h2>
-
-<p align="center">
-  <!-- Add your social media and contact links here -->
-</p>
+- View my resume on RESUME_ALEJANDRO CHARLES.
 
 <h2 align="center">Languages and Tools</h2>
-
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
   </a>
 </p>
 
