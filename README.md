@@ -1,9 +1,11 @@
 <h1 align="center">Hello, I'm Alejandro Charles Gonzalez 👋</h1>
 
 <h3 align="left">
-    <li>🎓 Third Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico. -----------------------------------------------Graduation Date: August 2022 – June 2026</li>
+  <ul>
+    <li>🎓 Third Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico. ---------------------------------------------Graduation Date: August 2022 – June 2026</li>
     <li>💻 I really like learning new things about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about                     understanding how programming works and everything related to technology.</li>
     <li>🌐 Languages: Spanish | English</li>
+  </ul>
 </h3>
 
 <h2 align="center">About Me</h2>
