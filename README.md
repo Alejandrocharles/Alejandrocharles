@@ -36,6 +36,8 @@
 
 - Transcript of grades on [TRANSCRIPT ALEJANDRO CHARLES](https://tecmx-my.sharepoint.com/personal/cesar_perez_tec_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcesar%5Fperez%5Ftec%5Fmx%2FDocuments%2FDesktop%2FElda%5FQuiroga%2F12%20octubre%202023%2FA00835903%2Epdf&parent=%2Fpersonal%2Fcesar%5Fperez%5Ftec%5Fmx%2FDocuments%2FDesktop%2FElda%5FQuiroga%2F12%20octubre%202023&ga=1).
 
+- View my GPA on [GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1XwyPaMR8AhK3_Ws5PywK4yJfeSUFWDPZ/view?usp=sharing).
+  
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
