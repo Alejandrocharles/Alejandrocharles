@@ -34,7 +34,7 @@
 
 - View my resume on [RESUME_ALEJANDRO CHARLES](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
-- Transcript of grades [TRANSCRIPT ALEJANDRO CHARLES](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://tecmx-my.sharepoint.com/personal/cesar_perez_tec_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcesar%5Fperez%5Ftec%5Fmx%2FDocuments%2FDesktop%2FElda%5FQuiroga%2F12%20octubre%202023%2FA00835903%2Epdf&parent=%2Fpersonal%2Fcesar%5Fperez%5Ftec%5Fmx%2FDocuments%2FDesktop%2FElda%5FQuiroga%2F12%20octubre%202023&ga=1).
+- Transcript of grades on [TRANSCRIPT ALEJANDRO CHARLES](https://tecmx-my.sharepoint.com/personal/cesar_perez_tec_mx/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcesar%5Fperez%5Ftec%5Fmx%2FDocuments%2FDesktop%2FElda%5FQuiroga%2F12%20octubre%202023%2FA00835903%2Epdf&parent=%2Fpersonal%2Fcesar%5Fperez%5Ftec%5Fmx%2FDocuments%2FDesktop%2FElda%5FQuiroga%2F12%20octubre%202023&ga=1).
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
