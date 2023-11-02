@@ -27,7 +27,7 @@
   - Computational Modeling of Electromagnetic Systems (Matlab)
   - Modeling of Engeineering with Computational Mathematics (Matlab)
 
-- 👨‍💻 You can find my projects on [GitHub](https://github.com/Alejandrocharles?tab=repositories).
+- 👨‍💻 You can find my projects on [Repositories](https://github.com/Alejandrocharles?tab=repositories).
 - 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
 
 <h2 align="center">Resume</h2>
