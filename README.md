@@ -32,11 +32,11 @@
 
 <h2 align="center">Resume</h2>
 
-- View my resume on [RESUME_ALEJANDRO CHARLES](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
+- View my resume here: [RESUME_ALEJANDRO CHARLES](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink).
 
-- Transcript of grades on [TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/1u_hqp71cIRwsBzO6YeBwVZKN_8goZhbl/view?usp=sharing).
+- Transcript of grades here: [TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/1u_hqp71cIRwsBzO6YeBwVZKN_8goZhbl/view?usp=sharing).
 
-- View my GPA on [GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1XwyPaMR8AhK3_Ws5PywK4yJfeSUFWDPZ/view?usp=sharing).
+- View my GPA here: [GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1XwyPaMR8AhK3_Ws5PywK4yJfeSUFWDPZ/view?usp=sharing).
   
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
