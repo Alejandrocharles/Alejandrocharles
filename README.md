@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 🌱 Current and upcoming courses related:
+- 🌱 Past, Current and upcoming courses related:
   - Programming fundamental data structures and algorithms (C++)
   - Object-oriented Computational Thinking (C++)
   - Object - Oriented Programming (C++)
