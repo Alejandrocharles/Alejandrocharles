@@ -38,8 +38,7 @@
 
 - View my GPA here: [GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1XwyPaMR8AhK3_Ws5PywK4yJfeSUFWDPZ/view?usp=sharing).
 
-## Find me on LinkedIn
-Connect with me on [LinkedIn](www.linkedin.com/in/alejandro-charles-45a9a0255)
+- Connect with me on: [LinkedIn](https://www.linkedin.com/in/alejandro-charles-45a9a0255)
   
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
