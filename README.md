@@ -40,9 +40,6 @@
 
 ## Find me on LinkedIn
 Connect with me on [LinkedIn](www.linkedin.com/in/alejandro-charles-45a9a0255)
-
-[<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue">](www.linkedin.com/in/alejandro-charles-45a9a0255)
-
   
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
