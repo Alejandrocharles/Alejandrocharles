@@ -39,17 +39,9 @@
 - View my GPA here: [GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1XwyPaMR8AhK3_Ws5PywK4yJfeSUFWDPZ/view?usp=sharing).
 
 ## Find me on LinkedIn
-
 Connect with me on [LinkedIn](www.linkedin.com/in/alejandro-charles-45a9a0255)
-[<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/your-linkedin-username/)
 
-
-  <h2 align="center">Connect with me</h2>
-<p align="center">
-  <a href="www.linkedin.com/in/alejandro-charles-45a9a0255" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-</p>
+[<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin&labelColor=blue">](www.linkedin.com/in/alejandro-charles-45a9a0255)
 
   
 <h2 align="center">Languages and Tools</h2>
