@@ -27,6 +27,7 @@
   - Computational Modeling of Electromagnetic Systems (Matlab)
   - Modeling of Engeineering with Computational Mathematics (Matlab)
 
+- 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/alejandro-charles-45a9a0255)
 - 👨‍💻 You can find my projects here: [Repositories](https://github.com/Alejandrocharles?tab=repositories).
 - 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
 
@@ -37,8 +38,6 @@
 - Transcript of grades here: [TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/1u_hqp71cIRwsBzO6YeBwVZKN_8goZhbl/view?usp=sharing).
 
 - View my GPA here: [GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1XwyPaMR8AhK3_Ws5PywK4yJfeSUFWDPZ/view?usp=sharing).
-
-- Connect with me on: [LinkedIn](https://www.linkedin.com/in/alejandro-charles-45a9a0255)
   
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
