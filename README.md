@@ -11,7 +11,7 @@
 <h2 align="center">About Me</h2>
 
 - 🌱 Past, Current and Upcoming courses related:
-  - Software construction and decision making
+  - Software construction and decision making (Full Stack Development with API)
   - Programming fundamental data structures and algorithms (C++)
   - Object-oriented Computational Thinking (C++)
   - Object - Oriented Programming (C++)
