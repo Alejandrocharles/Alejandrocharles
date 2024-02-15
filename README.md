@@ -11,13 +11,16 @@
 <h2 align="center">About Me</h2>
 
 - 🌱 Past, Current and Upcoming courses related:
+  - Software construction and decision making
   - Programming fundamental data structures and algorithms (C++)
   - Object-oriented Computational Thinking (C++)
   - Object - Oriented Programming (C++)
   - Computational Thinking for Engineering (Python) 
   - Mathematics and Data Science for Decision Making (Python)
+  - Implementation of computational methods (Python)
   - Modeling of minimal systems and computational architectures (Assembler)
   - Software requirements analysis (Theory)
+  - Interconnection of devices (Theory)
   - Implementation of internet of things (Arduino - SQL)
   - Computional Biology Analysis (R)
   - Statistic Analysis (R)
