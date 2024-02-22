@@ -36,7 +36,7 @@
 
 <h2 align="center">Resume</h2>
 
-- View my resume here: [RESUME_ALEJANDRO CHARLES](https://www.canva.com/design/DAFQqvzT0b0/pravsBTF9uTBs3p0OSZVqQ/view?utm_content=DAFQqvzT0b0&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel).
+- View my resume here: [RESUME_ALEJANDRO CHARLES](https://drive.google.com/file/d/1r8r9FnLASIqmjwZPisOKxfznameMzlEY/view?usp=sharing).
 
 - Transcript of grades here: [TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/1u_hqp71cIRwsBzO6YeBwVZKN_8goZhbl/view?usp=sharing).
 
