@@ -2,7 +2,7 @@
 
 <h3 align="left">
   <ul>
-    <li>🎓 Four Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤGraduation Date: August 2022 – June 2026ㅤㅤ GPA 95/100</li>
+    <li>🎓 Fifth Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤGraduation Date: August 2022 – June 2026ㅤㅤ GPA 95/100</li>
     <li>💻 I am keen on learning new concepts about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about understanding how programming works and everything related to technology.</li>
     <li>🌐 Languages: Spanish | English</li>
   </ul>
@@ -11,24 +11,41 @@
 <h2 align="center">About Me</h2>
 
 - 🌱 Past, Current and Upcoming courses related:
-  - Software construction and decision making (Full Stack Development with API)
-  - Programming fundamental data structures and algorithms (C++)
-  - Object-oriented Computational Thinking (C++)
-  - Object - Oriented Programming (C++)
-  - Computational Thinking for Engineering (Python) 
-  - Mathematics and Data Science for Decision Making (Python)
-  - Implementation of computational methods (Python)
-  - Modeling of minimal systems and computational architectures (Assembler)
-  - Software requirements analysis (Theory)
-  - Interconnection of devices (Theory)
-  - Implementation of internet of things (Arduino - SQL)
-  - Computional Biology Analysis (R)
-  - Statistic Analysis (R)
-  - Computational Modeling of Motion (Matlab) 
-  - Computational Modeling Applying Conservation Laws (Matlab)    
-  - Computational Modeling of Electrical Systems (Matlab)
-  - Computational Modeling of Electromagnetic Systems (Matlab)
-  - Modeling of Engeineering with Computational Mathematics (Matlab)
+
+### Software
+  - Software construction and decision making. (Full Stack Development with API)
+  - Modeling multi-agent systems with computer graphics. (Python, Mesa, A*Search Algorithm, FastApi, Unity)
+  - Integration of computer security in networks and software systems. (iOS development)
+
+### C++
+  - Analysis and design of advanced algorithms.
+  - Object - Oriented Programming. (C++)
+  - Programming fundamental data structures and algorithms. (C++)
+  - Object-oriented Computational Thinking. (C++)
+
+### Python
+  - Computational Thinking for Engineering. (Python) 
+  - Mathematics and Data Science for Decision Making. (Python)
+  - Implementation of computational methods. (Python)
+
+### Assembly and Theory
+  - Modeling of minimal systems and computational architectures. (Assembly)
+  - Software requirements analysis. (Theory)
+  - Interconnection of devices. (Theory)
+    
+### SQL
+  - Implementation of internet of things. (Arduino - SQL)
+ 
+### R
+  - Computional Biology Analysis. (R)
+  - Statistic Analysis. (R)
+  
+### Matlab
+  - Computational Modeling of Motion. (Matlab) 
+  - Computational Modeling Applying Conservation Laws. (Matlab)    
+  - Computational Modeling of Electrical Systems. (Matlab)
+  - Computational Modeling of Electromagnetic Systems. (Matlab)
+  - Modeling of Engeineering with Computational Mathematics. (Matlab)
 
 - 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/alejandro-charles-45a9a0255)
 - 👨‍💻 You can find my projects here: [Repositories](https://github.com/Alejandrocharles?tab=repositories).
