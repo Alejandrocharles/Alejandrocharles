@@ -11,39 +11,39 @@
 ## 🌱 Past, Current and Upcoming courses related:
 
 ### Software
-  - Software construction and decision making. (Full Stack Development with API)
-  - Modeling multi-agent systems with computer graphics. (Python, Mesa, A*Search Algorithm, FastApi, Unity)
-  - Integration of computer security in networks and software systems. (iOS development)
+  - Software construction and decision making. **(Full Stack Development with API)**
+  - Modeling multi-agent systems with computer graphics. **(Python, Mesa, A*Search Algorithm, FastApi, Unity)**
+  - Integration of computer security in networks and software systems. **(iOS development)**
 
 ### C++
   - Analysis and design of advanced algorithms.
-  - Object - Oriented Programming. (C++)
-  - Programming fundamental data structures and algorithms. (C++)
-  - Object-oriented Computational Thinking. (C++)
+  - Object - Oriented Programming. **(C++)**
+  - Programming fundamental data structures and algorithms. **(C++)**
+  - Object-oriented Computational Thinking. **(C++)**
 
 ### Python
-  - Computational Thinking for Engineering. (Python) 
-  - Mathematics and Data Science for Decision Making. (Python)
-  - Implementation of computational methods. (Python)
+  - Computational Thinking for Engineering. **(Python)**
+  - Mathematics and Data Science for Decision Making. **(Python)**
+  - Implementation of computational methods. **(Python)**
 
 ### Assembly and Theory
-  - Modeling of minimal systems and computational architectures. (Assembly)
-  - Software requirements analysis. (Theory)
-  - Interconnection of devices. (Theory)
+  - Modeling of minimal systems and computational architectures. **(Assembly)**
+  - Software requirements analysis. **(Theory)**
+  - Interconnection of devices. **(Theory)**
     
 ### SQL
-  - Implementation of internet of things. (Arduino - SQL)
+  - Implementation of internet of things. **(Arduino - SQL)**
  
 ### R
-  - Computional Biology Analysis. (R)
-  - Statistic Analysis. (R)
+  - Computional Biology Analysis. **(R)**
+  - Statistic Analysis. **(R)**
   
 ### Matlab
-  - Computational Modeling of Motion. (Matlab) 
-  - Computational Modeling Applying Conservation Laws. (Matlab)    
-  - Computational Modeling of Electrical Systems. (Matlab)
-  - Computational Modeling of Electromagnetic Systems. (Matlab)
-  - Modeling of Engeineering with Computational Mathematics. (Matlab)
+  - Computational Modeling of Motion. **(Matlab)**
+  - Computational Modeling Applying Conservation Laws. **(Matlab)**  
+  - Computational Modeling of Electrical Systems. **(Matlab)**
+  - Computational Modeling of Electromagnetic Systems. **(Matlab)**
+  - Modeling of Engeineering with Computational Mathematics. **(Matlab)**
 
 <h2 align="center">About Me</h2>
 
