@@ -8,8 +8,6 @@
   </ul>
 </h3>
 
-<h2 align="center">About Me</h2>
-
 ## 🌱 Past, Current and Upcoming courses related:
 
 ### Software
@@ -47,7 +45,7 @@
   - Computational Modeling of Electromagnetic Systems. (Matlab)
   - Modeling of Engeineering with Computational Mathematics. (Matlab)
 
-## Me
+<h2 align="center">About Me</h2>
 - 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/alejandro-charles-45a9a0255)
 - 👨‍💻 You can find my projects here: [Repositories](https://github.com/Alejandrocharles?tab=repositories).
 - 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
