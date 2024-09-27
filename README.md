@@ -16,7 +16,7 @@
   - Integration of computer security in networks and software systems. **(iOS development)**
 
 ### C++
-  - Analysis and design of advanced algorithms.
+  - Analysis and design of advanced algorithms. **(C++)**
   - Object - Oriented Programming. **(C++)**
   - Programming fundamental data structures and algorithms. **(C++)**
   - Object-oriented Computational Thinking. **(C++)**
@@ -47,19 +47,19 @@
 
 <h2 align="center">About Me</h2>
 
-- 🔗 Connect with me on: [LinkedIn](https://www.linkedin.com/in/alejandro-charles-45a9a0255)
+- 🔗 Connect with me on: **[LinkedIn](https://www.linkedin.com/in/alejandro-charles-45a9a0255)**
   
-- 👨‍💻 You can find my projects here: [Repositories](https://github.com/Alejandrocharles?tab=repositories).
+- 👨‍💻 You can find my projects here: **[Repositories](https://github.com/Alejandrocharles?tab=repositories).**
   
-- 📫 Reach out to me at [alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).
+- 📫 Reach out to me at **[alejandrocharles2004@gmail.com](mailto:alejandrocharles2004@gmail.com).**
 
 <h2 align="center">Resume</h2>
 
-- View my resume here: [RESUME_ALEJANDRO CHARLES](https://drive.google.com/file/d/1fh-UKq6YHGgs_ivQLhlYGu307j2cOpF0/view?usp=sharing).
+- View my resume here: **[RESUME_ALEJANDRO CHARLES](https://drive.google.com/file/d/1fh-UKq6YHGgs_ivQLhlYGu307j2cOpF0/view?usp=sharing).**
 
-- Transcript of grades here: [TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/1CZVihrtF6bZtHoFUeGL5pNo9hmYgkW4_/view?usp=sharing).
+- Transcript of grades here: **[TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/1CZVihrtF6bZtHoFUeGL5pNo9hmYgkW4_/view?usp=sharing).**
 
-- View my GPA here: [GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1XwyPaMR8AhK3_Ws5PywK4yJfeSUFWDPZ/view?usp=sharing).
+- View my GPA here: **[GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1XwyPaMR8AhK3_Ws5PywK4yJfeSUFWDPZ/view?usp=sharing).**
   
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
