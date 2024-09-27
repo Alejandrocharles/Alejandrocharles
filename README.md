@@ -10,7 +10,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 🌱 Past, Current and Upcoming courses related:
+## 🌱 Past, Current and Upcoming courses related:
 
 ### Software
   - Software construction and decision making. (Full Stack Development with API)
