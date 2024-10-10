@@ -55,7 +55,7 @@
 
 <h2 align="center">Resume</h2>
 
-- View my resume here: **[RESUME_ALEJANDRO CHARLES](https://drive.google.com/file/d/12Gqe6cdiCCOAtBLjGgyDirzKaOqkrjxj/view?usp=sharing).**
+- View my resume here: **[RESUME_ALEJANDRO CHARLES](https://drive.google.com/file/d/1V416jmBif0iU9sz7mBP-8kiJq4iPLZNs/view?usp=sharing).**
 
 - Transcript of grades here: **[TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/1CZVihrtF6bZtHoFUeGL5pNo9hmYgkW4_/view?usp=sharing).**
 
