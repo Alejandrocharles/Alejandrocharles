@@ -59,7 +59,7 @@
 
 - View my resume here: **[RESUME_ALEJANDRO CHARLES](https://drive.google.com/file/d/1zdg3Z6tee-KwGFJlyBM22KjpyMmshjNv/view?usp=sharing).**
 
-- Transcript of grades here: **[TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/1CZVihrtF6bZtHoFUeGL5pNo9hmYgkW4_/view?usp=sharing).**
+- Transcript of grades here: **[TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/18K79gHuLLM0sxblS7liu9MjVXa1j0g8U/view?usp=sharing).**
 
 - View my GPA here: **[GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1uKwZhHTaAfG9JVxh3vXQUR4P8gp53x6p/view?usp=sharing).**
   
