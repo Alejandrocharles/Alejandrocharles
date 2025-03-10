@@ -2,7 +2,7 @@
 
 <h3 align="left">
   <ul>
-    <li>🎓 Fifth Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤGraduation Date: August 2022 – June 2026ㅤㅤ GPA 95/100</li>
+    <li>🎓 Sixth Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤGraduation Date: August 2022 – June 2026ㅤㅤ GPA 95/100</li>
     <li>💻 I am keen on learning new concepts about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about understanding how programming works and everything related to technology.</li>
     <li>🌐 Languages: Spanish | English</li>
   </ul>
@@ -11,6 +11,7 @@
 ## 🌱 Past, Current and Upcoming courses related:
 
 ### Software
+  - Development and implementation of software systems **(Full Stack Development with React, Database and API)**
   - Software construction and decision making. **(Full Stack Development with API)**
   - Modeling multi-agent systems with computer graphics. **(Python, Mesa, A*Search Algorithm, FastApi, Unity)**
   - Integration of computer security in networks and software systems. **(iOS development)**
@@ -28,6 +29,7 @@
 
 ### Assembly and Theory
   - Modeling of minimal systems and computational architectures. **(Assembly)**
+  - Software systems planning **(Theory)**
   - Software requirements analysis. **(Theory)**
   - Interconnection of devices. **(Theory)**
     
