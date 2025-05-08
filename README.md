@@ -49,7 +49,7 @@
 
 <h2 align="center">About Me</h2>
 
-- 🔗 Connect with me on: **[LinkedIn](https://www.linkedin.com/in/alejandro-charles-45a9a0255)**
+- 🔗 Connect with me on: **[LinkedIn](www.linkedin.com/in/alejandro-charles)**
   
 - 👨‍💻 You can find my projects here: **[Repositories](https://github.com/Alejandrocharles?tab=repositories).**
   
