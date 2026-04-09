@@ -2,7 +2,7 @@
 
 <h3 align="left">
   <ul>
-    <li>🎓 Seventh Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤGraduation Date: August 2022 – December 2026ㅤㅤ GPA 95/100</li>
+    <li>🎓 Seventh Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤGraduation Date: August 2022 – December 2026ㅤㅤ GPA 94/100</li>
     <li>💻 I am keen on learning new concepts about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about understanding how programming works and everything related to technology.</li>
     <li>🌐 Languages: Spanish | English</li>
   </ul>
@@ -59,9 +59,9 @@
 
 - View my resume here: **[RESUME_ALEJANDRO CHARLES](https://drive.google.com/file/d/18m7OukJobMqijKnosnbY6AQF0R3amuCR/view?usp=sharing).**
 
-- Transcript of grades here: **[TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/18K79gHuLLM0sxblS7liu9MjVXa1j0g8U/view?usp=sharing).**
+- Transcript of grades here: **[TRANSCRIPT ALEJANDRO CHARLES](https://drive.google.com/file/d/107cT5nAsrnDw_7y-Kliygjgg_phpAmkl/view?usp=sharing).**
 
-- View my GPA here: **[GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1uKwZhHTaAfG9JVxh3vXQUR4P8gp53x6p/view?usp=sharing).**
+- View my GPA here: **[GPA ALEJANDRO CHARLES](https://drive.google.com/file/d/1O00ZXbJgj50e_qMLi7PGbvo3xpjEl-H5/view?usp=sharing).**
   
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
