@@ -2,7 +2,7 @@
 
 <h3 align="left">
   <ul>
-    <li>🎓 Seventh Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤGraduation Date: August 2022 – December 2026ㅤㅤ GPA 94/100</li>
+    <li>🎓 Seventh Semester Student of Bachelor of Computer Science (BCS) at Tecnológico de Monterrey (ITESM), Monterrey, Mexico.ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤGraduation Date: August 2022 – December 2027ㅤㅤ GPA 94/100</li>
     <li>💻 I am keen on learning new concepts about software programming, as well as applying my knowledge to solve challenges and problems that may arise. I am passionate about understanding how programming works and everything related to technology.</li>
     <li>🌐 Languages: Spanish | English</li>
   </ul>
